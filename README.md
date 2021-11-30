@@ -1,0 +1,4 @@
+- 👋 Hello, I’m @Savio-Miranda
+- 👀 I’m interested in development of web services and games.
+- 🌱 I’m currently learning Python and Python Web with Flask with @alura-cursos.
+- 💞️ I’m looking to collaborate on different projetcs and learn as fast as i can to break in the world of programming.
