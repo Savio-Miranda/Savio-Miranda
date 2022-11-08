@@ -58,7 +58,7 @@ Sou desenvolvedor de jogos, um verdadeiro caçador de O P O R T U N I D A D E S!
 
 ### UTILITIES
 
-[![WebScrapping](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=TextColor&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/web-scraping-G1-Para)
+[![WebScrapping](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=web-scraping-G1-ParaTextColor&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/web-scraping-G1-Para)
 
 ## WEB
 
