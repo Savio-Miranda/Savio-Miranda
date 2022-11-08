@@ -3,7 +3,7 @@
 # THE NEW GUY: SÁVIO MIRANDA 
 
 </div>
-Oi, sou Sávio Miranda e contarei uma breve descrição sobre mim:
+Olá, sou Sávio Miranda e aqui está minha breve descrição:
 
 Sou desenvolvedor de jogos, um verdadeiro caçador de O P O R T U N I D A D E S!
 
