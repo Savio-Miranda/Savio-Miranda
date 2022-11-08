@@ -9,7 +9,7 @@ Sou desenvolvedor de jogos, um verdadeiro caçador de O P O R T U N I D A D E S!
 
 <div align="center">
 
-<img src="https://external-preview.redd.it/uafMLScOUutOCmzRcIu2h4lgTa6o2tiHAjgP_p8aUuI.gif?format=mp4&s=9706b2c3cac21a723dda178b8aa34c519b14d3a4" width="122px"/>
+<img src="https://i.imgur.com/v7c1kEZ.gif" width="122px"/>
 
 </div>
 
