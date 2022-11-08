@@ -42,7 +42,7 @@ Sou desenvolvedor de jogos, um verdadeiro caçador de O P O R T U N I D A D E S!
 
 </div>
 
-![Savio's github stats](https://github-readme-stats.vercel.app/api?username=Savio-Miranda&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savio-Miranda&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
+![Savio's github stats](https://github-readme-stats.vercel.app/api?username=Savio-Miranda&bg_color=100,3980DB,10e200&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savio-Miranda&bg_color=100,3980DB,10e200&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
 
 <div align="center">
 
@@ -54,25 +54,25 @@ Sou desenvolvedor de jogos, um verdadeiro caçador de O P O R T U N I D A D E S!
 
  ### GAMES
 
-[![SlotMachine](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=SlotMachine&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/SlotMachine)
+[![SlotMachine](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=SlotMachine&bg_color=100,3980DB,10e200&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/SlotMachine)
 
 ### UTILITIES
 
-[![WebScrapping](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=web-scraping-G1-Para&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/web-scraping-G1-Para)
+[![WebScrapping](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=web-scraping-G1-Para&bg_color=100,3980DB,10e200&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/web-scraping-G1-Para)
 
 ## WEB
 
-[![Calculadora](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=Calculadora&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/Calculadora)
+[![Calculadora](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=Calculadora&bg_color=100,3980DB,10e200&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/Calculadora)
 
 ## PYTHON
 
  ### CLI
  
-[![Sistema-Escolar](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=Sistema-Escolar&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/Sistema-Escolar)
+[![Sistema-Escolar](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=Sistema-Escolar&bg_color=100,3980DB,10e2005&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/Sistema-Escolar)
 
-[![menu-de-jogos](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=menu-de-jogos&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/menu-de-jogos)
+[![menu-de-jogos](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=menu-de-jogos&bg_color=100,3980DB,10e200&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/menu-de-jogos)
 
-[![Analisador-de-letras-em-textos](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=Analisador-de-letras-em-texto&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/Analisador-de-letras-em-texto)
+[![Analisador-de-letras-em-textos](https://github-readme-stats.vercel.app/api/pin/?username=Savio-Miranda&repo=Analisador-de-letras-em-texto&bg_color=100,3980DB,10e200&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/Savio-Miranda/Analisador-de-letras-em-texto)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDc0MzY5NzQ3LDE1NjU0NjY1NzcsOTExND
