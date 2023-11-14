@@ -5,7 +5,7 @@
 </div>
 Olá, sou Sávio Miranda e aqui está minha breve descrição:
 
-Sou desenvolvedor de jogos, um verdadeiro caçador de O P O R T U N I D A D E S!
+Sou graduando em Ciência da Computação, um ícone na busca de O P O R T U N I D A D E S!
 
 <div align="center">
 
